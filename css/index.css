@@ -16,7 +16,7 @@ nav {
 }
 
 .calculator {
-    background: url("/static/skin.png") repeat scroll 0% 0% transparent;
+    background: url("../static/skin.png") repeat scroll 0% 0% transparent;
     height: 422px;
     margin: 0px auto;
     position: relative;
