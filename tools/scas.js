@@ -2,7 +2,7 @@ var exports = (function() {
     var Module = {
         noInitialRun: true,
         noExitRuntime: true,
-        memoryInitializerPrefixURL: "/tools/",
+        memoryInitializerPrefixURL: "tools/",
         print: window.ide_log,
         printErr: window.ide_error
     };
